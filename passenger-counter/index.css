@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(to right, #f6e7ec, #404d83);
+    font-family: Poppins, sans-serif;
+    font-weight: bold;
+}
+
+.outer-box {
+    background: rgb(255, 194, 204);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+    width: 600px;
+    margin: 250px auto;
+    border-radius: 30px;
+    border: solid 4px;
+}
+
+.inner-box {
+    width: 500px;
+    background: rgb(193, 224, 252);
+    margin: 0 auto;
+    border-radius: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border: solid 4px;
+}
+
+button {
+    background: rgb(192, 240, 237);
+    border-radius: 20px;
+    width: 100px;
+    border: solid 2px;
+}
