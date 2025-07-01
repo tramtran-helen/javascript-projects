@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(224, 224, 128);
+    color: rgb(229, 195, 6);
+    text-shadow:
+        -1px -1px 0 #000,  
+         1px -1px 0 #000,
+        -1px  1px 0 #000,
+         1px  1px 0 #000;
+}
+
+.full-box {
+   width: 500px;
+   border-radius: 20px;
+   border: 5px solid black;
+   background-color: rgb(38, 130, 38);
+   margin: auto;
+   margin-top: 200px;
+   text-align: center;
+}
+
+button {
+    background-color: rgb(241, 241, 168);
+    border-radius: 40px;
+    height: 40px;
+    width: 120px;
+    border: 2px solid black;
+    font-weight: bold;
+}
