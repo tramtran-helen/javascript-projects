@@ -6,5 +6,5 @@
         "default_popup": "index.html",
         "default_icon": "bear-tracker.png"
     },
-    "permission": ["tabs"]
+    "permissions": ["tabs"]
 }

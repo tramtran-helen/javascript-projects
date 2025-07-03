@@ -38,6 +38,7 @@ input::placeholder {
     width: 420px;
     text-align: left;
     margin: 0 auto;
+    padding-top: 10px;
 }
 
 button {

@@ -40,9 +40,9 @@ deleteInput.addEventListener("dblclick", function() {
 //Save tab button
 let saveTab = document.getElementById("save-tab")
 saveTab.addEventListener("click", function() {
-    chrome.tab.query({active: true, currentWindow: true}), function(tab) {
-        input.push(tab[0].url)
+    chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
+        input.push(tabs[0].url)
         localStorage.setItem("input", JSON.stringify(input))
         render(input)
-    }
+    })
 })
