@@ -41,6 +41,13 @@ input::placeholder {
     padding-top: 10px;
 }
 
+.list-box a {
+    word-break: break-all;
+    overflow-wrap: break-word;
+    display: inline-block;
+    max-width: 100%;
+}
+
 button {
     background-color: #3e648c;
     color: white;
