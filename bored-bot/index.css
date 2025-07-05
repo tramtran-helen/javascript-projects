@@ -1,0 +1,31 @@
+.happy {
+    background: linear-gradient(to right, #f7dbff, #98dbff);
+}
+
+body {
+    font-family: Poppins, sans-serif;
+    background: linear-gradient(to right, #73a5f6, #e8eff3);
+}
+
+#outer-box {
+    width: 400px;
+    border-radius: 30px;
+    border: 3px solid black;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 40px;
+    margin-top: 250px;
+}
+
+button {
+    background-color: rgb(215, 84, 84);
+    color: white;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+#text-content {
+    font-weight: bold;
+    color: rgb(69, 3, 3);
+}
