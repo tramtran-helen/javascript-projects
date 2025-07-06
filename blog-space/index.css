@@ -1,0 +1,27 @@
+#largest-box {
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, #f8e7fe, #daeefa);
+}
+
+nav {
+    color: rgb(134, 103, 211);
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#title-input {
+    width: 100%;
+    height: 30px;
+}
+
+#content-input {
+    width: 100%;
+    height: 60px;
+}
