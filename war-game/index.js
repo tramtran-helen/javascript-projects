@@ -36,9 +36,9 @@ function allCards() {
 //Display cards
 function displayCards(card1, card2) {
     document.getElementById("display-cards").children[0].innerHTML = `
-    <img src="${card1.image}"/>`
+    <img src="${card1.image}" class="card"/>`
     document.getElementById("display-cards").children[1].innerHTML = `
-    <img src="${card2.image}"/>`
+    <img src="${card2.image}" class="card"/>`
 }
 /*--------------*/
 
