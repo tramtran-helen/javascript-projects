@@ -6,7 +6,7 @@ A curated set of mini JavaScript projects showcasing core web functionality, API
 
 | Project | Description |
 |---------|-------------|
-| **Blackjack Game** | Browser-based blackjack — draw cards, track your sum, and decide when to hold |
+| **Blackjack Game** | Browser-based blackjack to draw cards, track your sum, and decide when to hold |
 | **Blog Space** | Create and post blog entries with a clean, minimal interface |
 | **Bored Bot** | Generates random activity suggestions using the Bored API |
 | **Passenger Counter** | Click-based counter for tracking people in real time, with save history |
